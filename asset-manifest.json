@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/News-Blog-React-practice/static/css/main.7acaea2f.css",
+    "main.js": "/News-Blog-React-practice/static/js/main.07d3183d.js",
+    "index.html": "/News-Blog-React-practice/index.html",
+    "main.7acaea2f.css.map": "/News-Blog-React-practice/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/News-Blog-React-practice/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
