@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/News-Blog-React-practice/static/css/main.16cbdf4f.css",
-    "main.js": "/News-Blog-React-practice/static/js/main.d4e11f12.js",
+    "main.js": "/News-Blog-React-practice/static/js/main.38ea00ae.js",
     "index.html": "/News-Blog-React-practice/index.html",
     "main.16cbdf4f.css.map": "/News-Blog-React-practice/static/css/main.16cbdf4f.css.map",
-    "main.d4e11f12.js.map": "/News-Blog-React-practice/static/js/main.d4e11f12.js.map"
+    "main.38ea00ae.js.map": "/News-Blog-React-practice/static/js/main.38ea00ae.js.map"
   },
   "entrypoints": [
     "static/css/main.16cbdf4f.css",
-    "static/js/main.d4e11f12.js"
+    "static/js/main.38ea00ae.js"
   ]
 }
